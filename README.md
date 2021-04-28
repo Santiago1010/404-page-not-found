@@ -29,8 +29,6 @@
 
 ![screenshot](https://github.com/Santiago1010/404-page-not-found/blob/main/assets/images/screen.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
 - You can see my project in <a href="https://santiago1010.github.io/404-page-not-found/" target="_BLANK">this link</a>.
 
 ### Built With
