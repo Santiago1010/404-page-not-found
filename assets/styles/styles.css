@@ -1,6 +1,83 @@
+html {
+  font-size: 62.5%;
+}
+
 body {
   font-family: "Poppins", sans-serif;
   margin: 0;
-  padding: 0;
+  padding: .5em 1em;
   box-sizing: border-box;
+}
+
+body > h2 {
+  font-size: 3rem;
+}
+
+.contentPage {
+  position: relative;
+  width: 1450px;
+  max-width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: auto;
+  min-height: 80vh;
+}
+
+.contentPage .contentImage {
+  position: relative;
+  min-width: 300px;
+  width: 50%;
+  max-width: 100%;
+  min-height: 100%;
+}
+
+.contentPage .contentImage img {
+  max-width: 100%;
+}
+
+.contentPage .contentText {
+  position: relative;
+  min-width: 300px;
+  width: 50%;
+  max-width: 100%;
+}
+
+.contentPage .contentText h1 {
+  font-size: 8rem;
+}
+
+.contentPage .contentText p {
+  max-width: 61%;
+  font-size: 3.5rem;
+}
+
+.contentPage .contentText button {
+  background-color: #242424;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  border-color: transparent;
+  padding: 2em 3em;
+  cursor: pointer;
+  margin-top: 50px;
+}
+
+#creater {
+  margin-top: 30px;
+  text-align: center;
+}
+
+@media (max-width: 350px) {
+
+  .contentPage .contentText h1 {
+    font-size: 4rem;
+  }
+
+  .contentPage .contentText p {
+    max-width: 91%;
+    font-size: 1.8rem;
+  }
+
 }
