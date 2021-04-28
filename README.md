@@ -6,9 +6,9 @@
 
 <div align="center">
   <h3>
-    <a href="https://santiago1010.github.io/404-page-not-found/" target="_BLANK">Demo</a>
+    <a href="https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge?node-id=0%3A1" target="_BLANK">Demo</a>
     <span> | </span>
-    <a href="https://github.com/Santiago1010/404-page-not-found" target="_BLANK">Solution</a>
+    <a href="https://santiago1010.github.io/404-page-not-found/" target="_BLANK">Solution</a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" target="_BLANK">Challenge</a>
   </h3>
