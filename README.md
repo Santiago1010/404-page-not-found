@@ -2,13 +2,11 @@
 
 <h1 align="center">404 Page Not Found</h1>
 
-<div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
-</div>
+<div align="center">Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.</div>
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">Demo</a>
+    <a href="https://santiago1010.github.io/404-page-not-found/">Demo</a>
     <span> | </span>
     <a href="https://github.com/Santiago1010/404-page-not-found" target="_BLANK">Solution</a>
     <span> | </span>
@@ -33,7 +31,7 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- You can see my project in link.
+- You can see my project in <a href="https://santiago1010.github.io/404-page-not-found/" target="_BLANK">this link</a>.
 
 ### Built With
 
