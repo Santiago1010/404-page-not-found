@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://santiago1010.github.io/404-page-not-found/">Demo</a>
+    <a href="https://santiago1010.github.io/404-page-not-found/" target="_BLANK">Demo</a>
     <span> | </span>
     <a href="https://github.com/Santiago1010/404-page-not-found" target="_BLANK">Solution</a>
     <span> | </span>
